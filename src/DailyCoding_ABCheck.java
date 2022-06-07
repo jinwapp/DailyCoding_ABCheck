@@ -9,11 +9,8 @@
 public class DailyCoding_ABCheck {
     public static void main(String[] args) {
 
-
-
         String str = "asDjhglsDd des";
         String result = "";
-
 
         str = str.toLowerCase();
         System.out.println(str);
